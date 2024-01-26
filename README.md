@@ -1,4 +1,4 @@
-###Olá eu sou Wilson, mas pode me chamar de Will. 🤘🏽
+<h2>Hello, my name is Wilson, but you can call me Will, I am a QA with great pride, I have been working since 2018, going through several projects in areas such as Telephony, Insurance, Automotive, Health, Banking, logistics and payment methods, among others.  🤘🏽 🎸</h2>
 
 [![Contatos](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511940398649)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-a-silva-a1b4ba60/)
@@ -7,8 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasyotta&show_icons=true&theme=dracula)
 
-###Tecnologias que eu trabalho 👨🏾‍💻
-
+<h2>Technologies I work with 👨🏾‍💻</h2>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -23,7 +22,7 @@
 </br>
 
 
-###Para Automação de testes  ⚙️
+<h2> For Test Automation  ⚙️ </h2>
 
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)]()
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)]()
@@ -31,9 +30,9 @@
 [![Playwrgiht](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=whit)]()
 
 
-#Banco de dados  🗃️
+
+###<h2>Data Base  🗃️<h2>
 
 [![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
-
