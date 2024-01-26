@@ -47,3 +47,5 @@ I am currently focused on studying at the best technology and Software Developme
 </h3>
 
 [![Congenial](https://media.licdn.com/dms/image/C4D0BAQFVppZsp9nXPA/company-logo_200_200/0/1675512079738/congenial_logo?e=2147483647&v=beta&t=iktOOFbJ75MOJeHGjpBKahDdfaXsZsNeXav0o89zySI)](https://congenial.com.br/)
+
+![](https://komarev.com/ghpvc/?username=wasyotta&color=green)
