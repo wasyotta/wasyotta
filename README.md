@@ -1,4 +1,4 @@
-<h2>Hello, my name is Wilson, but you can call me Will, I am a QA with great pride, I have been working since 2018, going through several projects in areas such as Telephony, Insurance, Automotive, Health, Banking, logistics and payment methods, among others.  🤘🏽 🎸</h2>
+<h3>Hello, my name is Wilson, but you can call me Will, I am a QA with great pride, I have been working since 2018, going through several projects in areas such as Telephony, Insurance, Automotive, Health, Banking, logistics and payment methods, among others.  🤘🏽 🎸</h3>
 
 [![Contatos](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511940398649)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-a-silva-a1b4ba60/)
@@ -7,7 +7,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasyotta&show_icons=true&theme=dracula)
 
-<h2>Technologies I work with 👨🏾‍💻</h2>
+<h3>Github Stats</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasyotta&size_weight=0.5&count_weight=0.5)
+
+<h3>Technologies I work with 👨🏾‍💻</h3>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -21,18 +25,25 @@
 </div>
 </br>
 
-
-<h2> For Test Automation  ⚙️ </h2>
+<h3> For Test Automation  ⚙️ </h3>
 
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)]()
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)]()
 [![Robot](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)]()
 [![Playwrgiht](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=whit)]()
 
-
-
-###<h2>Data Base  🗃️<h2>
+<h3>Data Base:  🗃️<h3>
 
 [![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+
+<h3>
+
+<br>How am I updating ?: 🧠 </br>
+
+I am currently focused on studying at the best technology and Software Development school in Brazil, at "Congenial", an intensive course focused on "Logic, Algorithm and data structure", solidifying my foundations to become a great programmer and adding to my QA skills, provide the best solutions as a Software Engineer.
+
+</h3>
+
+[![Congenial](https://media.licdn.com/dms/image/C4D0BAQFVppZsp9nXPA/company-logo_200_200/0/1675512079738/congenial_logo?e=2147483647&v=beta&t=iktOOFbJ75MOJeHGjpBKahDdfaXsZsNeXav0o89zySI)](https://congenial.com.br/)
