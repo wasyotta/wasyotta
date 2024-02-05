@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasyotta&show_icons=true&theme=dracula)
 
-<h3>Github Stats</h3>
+<h3>Github Stats.</h3>
 
 !![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasyotta&layout=compact)
 
