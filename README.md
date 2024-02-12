@@ -48,7 +48,9 @@ I am currently focused on studying at the best technology and Software Developme
 
 [![Congenial](https://media.licdn.com/dms/image/C4D0BAQFVppZsp9nXPA/company-logo_200_200/0/1675512079738/congenial_logo?e=2147483647&v=beta&t=iktOOFbJ75MOJeHGjpBKahDdfaXsZsNeXav0o89zySI)](https://congenial.com.br/)
 [![QAX](https://media.licdn.com/dms/image/D4D0BAQEtZtx3Ehy0hQ/company-logo_200_200/0/1706954761462/qaxperience_logo?e=2147483647&v=beta&t=e0fkMED4i_2OdqeDWf-2qHvMAK7AuDcNetftKReiSPc)](https://qax.com.br/pt)
+
 [![Alura](https://www.alura.com.br/assets/img/alura-share.1696884669.png)](https://cursos.alura.com.br/)
+
 [![TAT](https://talkingabouttesting.files.wordpress.com/2017/01/cropped-cor-preto-800x291px3.png)](https://talkingabouttesting.coursify.me/)
 
 ![](https://komarev.com/ghpvc/?username=wasyotta&color=green)
