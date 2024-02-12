@@ -45,7 +45,10 @@
 I am currently focused on studying at the best technology and Software Development school in Brazil, at "Congenial", an intensive course focused on "Logic, Algorithm and data structure", solidifying my foundations to become a great programmer and adding to my QA skills, provide the best solutions as a Software Engineer.
 
 </h3>
-
+div class="links-container">
+  <a href="[![Alura](https://www.alura.com.br/assets/img/alura-share.1696884669.png)](https://cursos.alura.com.br/)" class="link">Link 1</a>
+  <a href="https://example2.com" class="link">Link 2</a>
+</div>
 [![Congenial](https://media.licdn.com/dms/image/C4D0BAQFVppZsp9nXPA/company-logo_200_200/0/1675512079738/congenial_logo?e=2147483647&v=beta&t=iktOOFbJ75MOJeHGjpBKahDdfaXsZsNeXav0o89zySI)](https://congenial.com.br/)
 [![QAX](https://media.licdn.com/dms/image/D4D0BAQEtZtx3Ehy0hQ/company-logo_200_200/0/1706954761462/qaxperience_logo?e=2147483647&v=beta&t=e0fkMED4i_2OdqeDWf-2qHvMAK7AuDcNetftKReiSPc)](https://qax.com.br/pt)
 
