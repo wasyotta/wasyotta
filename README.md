@@ -35,13 +35,15 @@
 [![Rubyonrails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)](https://www.selenium.dev/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-![cucumber](https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=fff&style=flat-square)
+![Cucumber Badge](https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=fff&style=plastic)
+
 
 <h3>Data Base:  🗃️<h3>
-
+    
 [![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+
 
 <h3>
 
