@@ -9,7 +9,7 @@
 
 <h3>Github Stats.</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasyotta&layout=compact)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasyotta&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasyotta&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Technologies I work with 👨🏾‍💻</h3>
