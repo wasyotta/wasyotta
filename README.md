@@ -57,9 +57,17 @@ I am currently focused on studying at the best technology and Software Developme
 
 </h3>
 
-[![Congenial](https://media.licdn.com/dms/image/C4D0BAQFVppZsp9nXPA/company-logo_200_200/0/1675512079738/congenial_logo?e=2147483647&v=beta&t=iktOOFbJ75MOJeHGjpBKahDdfaXsZsNeXav0o89zySI)](https://congenial.com.br/)
-[![QAX](https://media.licdn.com/dms/image/D4D0BAQEtZtx3Ehy0hQ/company-logo_200_200/0/1706954761462/qaxperience_logo?e=2147483647&v=beta&t=e0fkMED4i_2OdqeDWf-2qHvMAK7AuDcNetftKReiSPc)](https://qax.com.br/pt)
-[![TEST.CLASS](https://hotmart.s3.amazonaws.com/product_pictures/418dd867-478d-469e-970f-07da8565f389/Logotestclass1.png)](https://hotmart.com/pt-br/marketplace/produtos/test-class/K81623089H)
+<a href="https://congenial.com.br/">
+    <img src="https://media.licdn.com/dms/image/C4D0BAQFVppZsp9nXPA/company-logo_200_200/0/1675512079738/congenial_logo?e=2147483647&v=beta&t=iktOOFbJ75MOJeHGjpBKahDdfaXsZsNeXav0o89zySI" width="100" alt="Congenial">
+</a>
+
+<a href="https://qax.com.br/pt">
+    <img src="https://media.licdn.com/dms/image/D4D0BAQEtZtx3Ehy0hQ/company-logo_200_200/0/1706954761462/qaxperience_logo?e=2147483647&v=beta&t=e0fkMED4i_2OdqeDWf-2qHvMAK7AuDcNetftKReiSPc" width="100" alt="QAX">
+</a>
+
+<a href="https://hotmart.com/pt-br/marketplace/produtos/test-class/K81623089H">
+    <img src="https://hotmart.s3.amazonaws.com/product_pictures/418dd867-478d-469e-970f-07da8565f389/Logotestclass1.png" width="100" alt="TEST.CLASS">
+</a>
 
 
 ![](https://komarev.com/ghpvc/?username=wasyotta&color=green)
