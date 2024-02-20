@@ -59,7 +59,7 @@ I am currently focused on studying at the best technology and Software Developme
 
 [![Congenial](https://media.licdn.com/dms/image/C4D0BAQFVppZsp9nXPA/company-logo_200_200/0/1675512079738/congenial_logo?e=2147483647&v=beta&t=iktOOFbJ75MOJeHGjpBKahDdfaXsZsNeXav0o89zySI)](https://congenial.com.br/)
 [![QAX](https://media.licdn.com/dms/image/D4D0BAQEtZtx3Ehy0hQ/company-logo_200_200/0/1706954761462/qaxperience_logo?e=2147483647&v=beta&t=e0fkMED4i_2OdqeDWf-2qHvMAK7AuDcNetftKReiSPc)](https://qax.com.br/pt)
-[![Alura](https://media.licdn.com/dms/image/D4D0BAQFN-Q_zISNK9w/company-logo_100_100/0/1704387182393/aluracursos_logo?e=2147483647&v=beta&t=mKjuLT3AlnQfEc2YkJKYDrCmuceNoG92rJgPkas07ao)](https://cursos.alura.com.br/)
+[![TEST.CLASS](https://hotmart.s3.amazonaws.com/product_pictures/418dd867-478d-469e-970f-07da8565f389/Logotestclass1.png)](https://hotmart.com/pt-br/marketplace/produtos/test-class/K81623089H)
 
 
 ![](https://komarev.com/ghpvc/?username=wasyotta&color=green)
