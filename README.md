@@ -69,5 +69,8 @@ I am currently focused on studying at the best technology and Software Developme
     <img src="https://hotmart.s3.amazonaws.com/product_pictures/418dd867-478d-469e-970f-07da8565f389/Logotestclass1.png" width="100" alt="TEST.CLASS">
 </a>
 
+<a href="https://cursos.alura.com.br/">
+    <img src="https://www.alura.com.br/assets/img/alura-share.1696884669.png" width="100" alt="ALURA">
+</a>
 
 ![](https://komarev.com/ghpvc/?username=wasyotta&color=green)
