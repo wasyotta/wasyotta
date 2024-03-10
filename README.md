@@ -1,7 +1,6 @@
 <h3>Hello, my name is Wilson, but you can call me Will, I am a QA with great pride, I have been working since 2018, going through several projects in areas such as Telephony, Insurance, Automotive, Health, Banking, logistics and payment methods, among others.  🤘🏽 🎸</h3>
 
 [![Contatos](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511940398649)
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-a-silva-a1b4ba60/)
 [![e-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:wasyottatech@outlook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/will___alves/?next=%2F)
 
