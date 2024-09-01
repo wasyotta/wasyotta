@@ -77,7 +77,7 @@ I am currently focused on studying at the best technology and Software Developme
 </a>
 
 <a href="https://talkingabouttesting.coursify.me/">
-    <img src="background-image: url(https://d1xhm66bwx3o35.cloudfront.net/multipart/260x260_max/fd2a705d4b33d1f2870b1e9567e9b843.jpeg)" width="100" alt="TAT">
+    <img src="https://d1xhm66bwx3o35.cloudfront.net/multipart/260x260_max/fd2a705d4b33d1f2870b1e9567e9b843.jpeg" width="100" alt="TAT">
 </a>
 
 ![](https://komarev.com/ghpvc/?username=wasyotta&color=green)
