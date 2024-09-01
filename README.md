@@ -76,7 +76,7 @@ I am currently focused on studying at the best technology and Software Developme
     <img src="https://www.alura.com.br/assets/img/alura-share.1696884669.png" width="100" alt="ALURA">
 </a>
 
-<a href="https://cursos.alura.com.br/](https://talkingabouttesting.coursify.me/">
+<a href="https://talkingabouttesting.coursify.me/">
     <img src="https://www.alura.com.br/assets/img/alura-share.1696884669.png" width="100" alt="TAT">
 </a>
 
