@@ -4,11 +4,9 @@
 [![e-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:wasyottatech@outlook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/will___alves/?next=%2F)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasyotta&show_icons=true&theme=dracula)
-
 <h3>Github Stats.</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?wasyotta=anuraghazra&show_icons=true&theme=radical)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Technologies I work with 👨🏾‍💻</h3>
 
