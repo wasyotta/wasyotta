@@ -8,7 +8,7 @@
 
 <h3>Github Stats.</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?wasyotta=anuraghazra&show_icons=true&theme=radical)
 
 <h3>Technologies I work with 👨🏾‍💻</h3>
 
